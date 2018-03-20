@@ -1,5 +1,5 @@
 
-#please see the Anylatics.pdf for the pdf and complete description and refrenences of the paper at the EOF --- describe the pdf of the paper used for meta anylasiss 
+#please see the Innovacer Intern ppt.pdf for the pdf and complete description and refrenences of the paper at the EOF --- describe the pdf of the paper used for meta anylasiss 
 
 # Requirements(Python Module): {Python - Version(3.5.4 or higher)}
 
@@ -14,7 +14,7 @@
 	3. Open the text editor(sublime text) and edit the file name on which you want to run the script.
 	4. Open Terminal/Shell run the command
 		'''
-			python InternAnylatics.py
+			python  Anylatics.py
 		
 		'''
 	5. After when you are done with above steps you will see new file will be generated with all the name without duplication of any of the name.
